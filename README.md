@@ -14,3 +14,4 @@ Aurora is a clean modern pack that has a simple interface, clean sounds, and a b
 ## Extra Assets
 ![aurora](https://user-images.githubusercontent.com/82107846/225742347-d261f258-0d28-46ee-a7dd-26aeebc22755.png)
 ![logo](https://user-images.githubusercontent.com/82107846/225742349-7204285b-bc62-4a7e-8554-737bc0248a1e.png)
+![background](https://user-images.githubusercontent.com/82107846/225743466-208075ef-45e2-4090-967c-9b35aab7c9ad.png)
