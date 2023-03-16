@@ -9,7 +9,7 @@ Aurora is UI pack created by our team and owned by xStormy#7759. This aims to ma
 Go to our Discord Server linked above. This Discord Server also has ways to see what is coming up next to the pack.
 
 ## What design style does the Aurora pack have.
-Aurora is a clean modern pack that has a simple interface, clean sounds, and a beautiful screen to stare at.
+Aurora is a clean modern pack that has a simple interface, clean sounds, and a beautiful screen to stare at. [Here](https://github.com/aurora-club/aurora/blob/main/DESIGN.md) is a design guide to help you edit Aurora.
 
 ## Extra Assets
 ![aurora](https://user-images.githubusercontent.com/82107846/225742347-d261f258-0d28-46ee-a7dd-26aeebc22755.png)
